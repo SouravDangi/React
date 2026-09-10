@@ -1,0 +1,19 @@
+*{
+  background-color: black;
+  font-size: 15px;
+}
+
+button{
+  background-color: wheat;
+  margin: 4px;
+}
+
+div{
+  padding: 5px;
+}
+
+input{
+  background-color: wheat;
+  border: solid white 1px;
+  margin: 4px;
+}
